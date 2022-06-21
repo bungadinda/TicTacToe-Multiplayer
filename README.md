@@ -2,7 +2,7 @@
 # 
 
 
-:How to Play:
+*>>>>>>>>>>>>>How to Play<<<<<<<<<<<<<<
 1. First, run the console app from Server
 
 ![Screenshot (4057)](https://user-images.githubusercontent.com/83818714/174737503-3a1e1755-ee98-4745-b4c3-0f596ac2f1bc.png)
@@ -10,7 +10,7 @@
 
 2. Player can run the console from Debug file
 4. Then, run the console app from TicTacToe_CSharp file
-5. Input your IP number to connect to server
+5. Input your IP number to connect to the server
 
 ![Screenshot (4058)](https://user-images.githubusercontent.com/83818714/174738067-7e950556-b7b1-4c97-8b15-3e47ac759093.png)
 
