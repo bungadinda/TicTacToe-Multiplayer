@@ -2,7 +2,7 @@
 # 
 
 
-*>>>>>>>>>>>>>How to Play<<<<<<<<<<<<<<
+*>>>>>>>>>>>>>How to Play<<<<<<<<<<<<<<*
 1. First, run the console app from Server
 
 ![Screenshot (4057)](https://user-images.githubusercontent.com/83818714/174737503-3a1e1755-ee98-4745-b4c3-0f596ac2f1bc.png)
