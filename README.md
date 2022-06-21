@@ -27,8 +27,7 @@
 
 9. If one player manages to put 3 symbols in one direction, then the game is over and the player wins
 
-![Screenshot (4056)](https://user-images.githubusercontent.com/83818714/174738253-c71ff9ef-746b-4c53-8524-beb26dec5878.png)
-
+![Screenshot (4061)](https://user-images.githubusercontent.com/83818714/174738681-7442b809-efe2-43fa-a994-54d566f1fab5.png)
 
 10. The game board can start over again with command "!restart"
 
