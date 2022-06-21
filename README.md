@@ -2,10 +2,10 @@
 # 
 
 
-How to Play:
+:How to Play:
 1. First, run the console app from Server
 2. Player can run the console from Debug file
-3. Then, run the console app from tictactoe-csharp file
+3. Then, run the console app from TicTacToe_CSharp file
 4. Input your IP number to connect to server
 5. Repeat step 3&4 for Player 2
 6. Players can play the game when the game board box appears
